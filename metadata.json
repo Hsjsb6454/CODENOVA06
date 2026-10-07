@@ -1,0 +1,6 @@
+{
+  "name": "BhashaSetu - Indic Language Academic Portal",
+  "description": "Learn India's state languages and regional dialects through interactive flashcards, audio pronunciations, voice recognition accuracy feedback, and academic quiz analytics with comprehensive OOP architecture.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
